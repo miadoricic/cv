@@ -1,165 +1,62 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Mia Doričić
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:miadoricic@gmail.com
+  text: miadoricic@gmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://miadoricic.github.io/
+  text: miadoricic.github.io
 ---
 
-# Wode **Ni**
-
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
+# Mia Doričić
 
 {% include cv-contact.html %}
 
+## Skills
+
+- **Programming:** C#/C++/Python, JavaScript
+- **Markup:** Markdown, reStructuredText, HTML/CSS
+- **3D graphics:** Unreal Engine (versions 4 and 5), Unity, Blender
+- **Audio/video:** Nuendo, Sony Vegas (Pro), FL Studio
+- **General:** Windows, Linux, Microsoft Office (Word, Powerpoint, and Excel), Adobe Photoshop, Audacity, GIMP
+
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+`2018 – 2021`
+**Bachelor of informatics (univ. bacc. inf.), Department of Informatics, University of Rijeka**
 
-```
-Pittsburgh, PA
-```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
-
-
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+- Undergraduate thesis: [Shading optimization techniques in Unreal Engine](https://dabar.srce.hr/islandora/object/infri%3A848) (mentor: [Dr. Vedran Miletić](https://vedran.miletic.net/), Assistant Professor)
+- ***Student teaching assistant (mentor: [Dr. Vedran Miletić](https://vedran.miletic.net/), Assistant Professor):***
+    - [Code optimization](https://group.miletic.net/en/teaching/courses/CO/) course for YUFE students (developed assignments for exercises and homework)
+    - [Parallel programming on heterogeneous systems](https://group.miletic.net/hr/nastava/kolegiji/PPHS/) for undergraduate students of informatics (preparation of teaching materials using the AMD ROCm platform and its libraries (rocPRIM, rocRAND rocBLAS, rocSOLVER etc.) and internal guide for using the Vulkan API for graphics and compute)
+- ***Science popularization activities:***
+    - Participation in the programme of [Festival of science](http://www.festivalznanosti.hr/) 2019 (9th April 2019): Demonstration of virtual reality and computational chemistry tools (mentor: [Dr. Vedran Miletić](https://vedran.miletic.net/), Assistant Professor; [Computer Networks, Parallelization, and Simulation Laboratory – CNPSLab](https://lab.miletic.net/))
+    - Participation in the programme of [European researcher's night](https://cordis.europa.eu/programme/id/H2020_MSCA-NIGHT-2018) 2018 (28th September 2018): *Microscope vs. supercomputers in pharmacy (supercomputers are 21st century microscopes)* (mentor: [Dr. Željko Svedružić](https://svedruziclab.github.io/principal-investigator.html), Assistant Professor; [Biomolecular Structure and Function Group – BioSFGroup](https://svedruziclab.github.io/))
+    - Speaker at [Document Freedom Day (DFD)](https://www.documentfreedom.org/) 2017 celebration at University of Rijeka (27th March 2017): *reStructuredText: plain text, only structured*
 
 ## Experience
 
-### **Microsoft Research** `2020.5 - 2020.8`
+`2020 – 2021`
+**Freelance jobs:**
 
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+- Created a number of game levels for two video games in Unity
+- Created an application for kindergarten-level children in Unity
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+## Awards
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+- 3rd place in [Realizator](https://realizator.uniri.hr/) 2018 business case study competiton (3rd December 2018)
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+## Languages
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+- Croatian (mother tongue)
+- English (fluent)
 
-## Mentoring
+## References
 
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2021 - Now` <br>
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+- **Dr. Vedran Miletić**, Assistant Professor, Faculty of Informatics and Digital Technologies, University of Rijeka, Rijeka, Croatia. Contact: [vmiletic@inf.uniri.hr](mailto:vmiletic@inf.uniri.hr)
 
----
+## Hobbies
 
-## Honors & Awards
-
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
-
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI 2021, CHI 2022` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2021` <br>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- **Music:** In my free time I like to make covers of songs that I produce myself. From 2008 – 2016 I've been an active member of a professional singing ensamble *Putokazi*, where I learned a lot about team work and organization, and also went on to peform in several cities of China and throughout the whole of Croatia.
+- **Game character design:** In my spare time I design video game characters and make several stories that could potentially grow to be a plot for a video game.
